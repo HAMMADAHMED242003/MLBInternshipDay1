@@ -17,7 +17,6 @@ def calculateAvg(totalSubjects):
     return totalMarks
 
 
-
 name = input("Enter your Name")
 studentClass = input("Enter your Class")
 totalSubjects=int(input("Enter total number of subjects"))
