@@ -1,4 +1,4 @@
-Student Record Management System
+
 ***What I learned today***
 Today I learned about the file handling in python and why we use JSON data instead of simple python dictionary. And i learned all concepts of how to add content in the file update them and delete them and how to read,write and appendfrom the file using python. And in json i learned what is json and why it commenly used. It's used for exhanging data through API and in the last i learned that how to convert python dictionaries to JSON format for system understading.
 
